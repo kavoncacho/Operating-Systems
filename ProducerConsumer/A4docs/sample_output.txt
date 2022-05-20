@@ -1,0 +1,308 @@
+Broker: 1 HDR + 0 RDR = 1. Added Human Driver Request. Produced: 1 HDR + 0 RDR = 1 in 0.000 s.
+Broker: 0 HDR + 0 RDR = 0. CostAlgo Dispatcher consumed Human Driver Request.  CostAlgo Dispatcher totals: 1 HDR + 0 RDR = 1 consumed in 0.000 s.
+Broker: 1 HDR + 0 RDR = 1. Added Human Driver Request. Produced: 2 HDR + 0 RDR = 2 in 0.006 s.
+Broker: 0 HDR + 0 RDR = 0. FastAlgo Dispatcher consumed Human Driver Request.  FastAlgo Dispatcher totals: 1 HDR + 0 RDR = 1 consumed in 0.006 s.
+Broker: 0 HDR + 1 RDR = 1. Added Robot Driver Request. Produced: 2 HDR + 1 RDR = 3 in 0.010 s.
+Broker: 1 HDR + 1 RDR = 2. Added Human Driver Request. Produced: 3 HDR + 1 RDR = 4 in 0.011 s.
+Broker: 2 HDR + 1 RDR = 3. Added Human Driver Request. Produced: 4 HDR + 1 RDR = 5 in 0.017 s.
+Broker: 3 HDR + 1 RDR = 4. Added Human Driver Request. Produced: 5 HDR + 1 RDR = 6 in 0.022 s.
+Broker: 3 HDR + 2 RDR = 5. Added Robot Driver Request. Produced: 5 HDR + 2 RDR = 7 in 0.025 s.
+Broker: 3 HDR + 1 RDR = 4. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 1 HDR + 1 RDR = 2 consumed in 0.027 s.
+Broker: 4 HDR + 1 RDR = 5. Added Human Driver Request. Produced: 6 HDR + 2 RDR = 8 in 0.028 s.
+Broker: 3 HDR + 1 RDR = 4. CostAlgo Dispatcher consumed Human Driver Request.  CostAlgo Dispatcher totals: 2 HDR + 0 RDR = 2 consumed in 0.036 s.
+Broker: 4 HDR + 1 RDR = 5. Added Human Driver Request. Produced: 7 HDR + 2 RDR = 9 in 0.036 s.
+Broker: 4 HDR + 2 RDR = 6. Added Robot Driver Request. Produced: 7 HDR + 3 RDR = 10 in 0.041 s.
+Broker: 3 HDR + 2 RDR = 5. FastAlgo Dispatcher consumed Human Driver Request.  FastAlgo Dispatcher totals: 2 HDR + 1 RDR = 3 consumed in 0.047 s.
+Broker: 4 HDR + 2 RDR = 6. Added Human Driver Request. Produced: 8 HDR + 3 RDR = 11 in 0.047 s.
+Broker: 4 HDR + 3 RDR = 7. Added Robot Driver Request. Produced: 8 HDR + 4 RDR = 12 in 0.056 s.
+Broker: 3 HDR + 3 RDR = 6. FastAlgo Dispatcher consumed Human Driver Request.  FastAlgo Dispatcher totals: 3 HDR + 1 RDR = 4 consumed in 0.068 s.
+Broker: 4 HDR + 3 RDR = 7. Added Human Driver Request. Produced: 9 HDR + 4 RDR = 13 in 0.068 s.
+Broker: 4 HDR + 4 RDR = 8. Added Robot Driver Request. Produced: 9 HDR + 5 RDR = 14 in 0.072 s.
+Broker: 4 HDR + 3 RDR = 7. CostAlgo Dispatcher consumed Robot Driver Request.  CostAlgo Dispatcher totals: 2 HDR + 1 RDR = 3 consumed in 0.072 s.
+Broker: 4 HDR + 4 RDR = 8. Added Robot Driver Request. Produced: 9 HDR + 6 RDR = 15 in 0.087 s.
+Broker: 3 HDR + 4 RDR = 7. FastAlgo Dispatcher consumed Human Driver Request.  FastAlgo Dispatcher totals: 4 HDR + 1 RDR = 5 consumed in 0.088 s.
+Broker: 4 HDR + 4 RDR = 8. Added Human Driver Request. Produced: 10 HDR + 6 RDR = 16 in 0.089 s.
+Broker: 4 HDR + 5 RDR = 9. Added Robot Driver Request. Produced: 10 HDR + 7 RDR = 17 in 0.103 s.
+Broker: 3 HDR + 5 RDR = 8. CostAlgo Dispatcher consumed Human Driver Request.  CostAlgo Dispatcher totals: 3 HDR + 1 RDR = 4 consumed in 0.107 s.
+Broker: 4 HDR + 5 RDR = 9. Added Human Driver Request. Produced: 11 HDR + 7 RDR = 18 in 0.107 s.
+Broker: 4 HDR + 4 RDR = 8. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 4 HDR + 2 RDR = 6 consumed in 0.109 s.
+Broker: 4 HDR + 5 RDR = 9. Added Robot Driver Request. Produced: 11 HDR + 8 RDR = 19 in 0.119 s.
+Broker: 3 HDR + 5 RDR = 8. FastAlgo Dispatcher consumed Human Driver Request.  FastAlgo Dispatcher totals: 5 HDR + 2 RDR = 7 consumed in 0.130 s.
+Broker: 4 HDR + 5 RDR = 9. Added Human Driver Request. Produced: 12 HDR + 8 RDR = 20 in 0.130 s.
+Broker: 4 HDR + 6 RDR = 10. Added Robot Driver Request. Produced: 12 HDR + 9 RDR = 21 in 0.135 s.
+Broker: 4 HDR + 5 RDR = 9. CostAlgo Dispatcher consumed Robot Driver Request.  CostAlgo Dispatcher totals: 3 HDR + 2 RDR = 5 consumed in 0.143 s.
+Broker: 3 HDR + 5 RDR = 8. FastAlgo Dispatcher consumed Human Driver Request.  FastAlgo Dispatcher totals: 6 HDR + 2 RDR = 8 consumed in 0.150 s.
+Broker: 3 HDR + 6 RDR = 9. Added Robot Driver Request. Produced: 12 HDR + 10 RDR = 22 in 0.151 s.
+Broker: 4 HDR + 6 RDR = 10. Added Human Driver Request. Produced: 13 HDR + 10 RDR = 23 in 0.151 s.
+Broker: 4 HDR + 7 RDR = 11. Added Robot Driver Request. Produced: 13 HDR + 11 RDR = 24 in 0.166 s.
+Broker: 4 HDR + 6 RDR = 10. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 6 HDR + 3 RDR = 9 consumed in 0.171 s.
+Broker: 4 HDR + 5 RDR = 9. CostAlgo Dispatcher consumed Robot Driver Request.  CostAlgo Dispatcher totals: 3 HDR + 3 RDR = 6 consumed in 0.178 s.
+Broker: 4 HDR + 6 RDR = 10. Added Robot Driver Request. Produced: 13 HDR + 12 RDR = 25 in 0.182 s.
+Broker: 3 HDR + 6 RDR = 9. FastAlgo Dispatcher consumed Human Driver Request.  FastAlgo Dispatcher totals: 7 HDR + 3 RDR = 10 consumed in 0.192 s.
+Broker: 4 HDR + 6 RDR = 10. Added Human Driver Request. Produced: 14 HDR + 12 RDR = 26 in 0.192 s.
+Broker: 4 HDR + 7 RDR = 11. Added Robot Driver Request. Produced: 14 HDR + 13 RDR = 27 in 0.198 s.
+Broker: 4 HDR + 6 RDR = 10. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 7 HDR + 4 RDR = 11 consumed in 0.213 s.
+Broker: 3 HDR + 6 RDR = 9. CostAlgo Dispatcher consumed Human Driver Request.  CostAlgo Dispatcher totals: 4 HDR + 3 RDR = 7 consumed in 0.214 s.
+Broker: 3 HDR + 7 RDR = 10. Added Robot Driver Request. Produced: 14 HDR + 14 RDR = 28 in 0.214 s.
+Broker: 4 HDR + 7 RDR = 11. Added Human Driver Request. Produced: 15 HDR + 14 RDR = 29 in 0.214 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 15 HDR + 15 RDR = 30 in 0.230 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 7 HDR + 5 RDR = 12 consumed in 0.234 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 15 HDR + 16 RDR = 31 in 0.246 s.
+Broker: 3 HDR + 8 RDR = 11. CostAlgo Dispatcher consumed Human Driver Request.  CostAlgo Dispatcher totals: 5 HDR + 3 RDR = 8 consumed in 0.249 s.
+Broker: 4 HDR + 8 RDR = 12. Added Human Driver Request. Produced: 16 HDR + 16 RDR = 32 in 0.249 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 7 HDR + 6 RDR = 13 consumed in 0.254 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 16 HDR + 17 RDR = 33 in 0.261 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 7 HDR + 7 RDR = 14 consumed in 0.275 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 16 HDR + 18 RDR = 34 in 0.277 s.
+Broker: 3 HDR + 8 RDR = 11. CostAlgo Dispatcher consumed Human Driver Request.  CostAlgo Dispatcher totals: 6 HDR + 3 RDR = 9 consumed in 0.285 s.
+Broker: 4 HDR + 8 RDR = 12. Added Human Driver Request. Produced: 17 HDR + 18 RDR = 35 in 0.285 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 7 HDR + 8 RDR = 15 consumed in 0.296 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 17 HDR + 19 RDR = 36 in 0.296 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 7 HDR + 9 RDR = 16 consumed in 0.316 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 17 HDR + 20 RDR = 37 in 0.316 s.
+Broker: 3 HDR + 8 RDR = 11. CostAlgo Dispatcher consumed Human Driver Request.  CostAlgo Dispatcher totals: 7 HDR + 3 RDR = 10 consumed in 0.320 s.
+Broker: 4 HDR + 8 RDR = 12. Added Human Driver Request. Produced: 18 HDR + 20 RDR = 38 in 0.320 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 7 HDR + 10 RDR = 17 consumed in 0.337 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 18 HDR + 21 RDR = 39 in 0.337 s.
+Broker: 4 HDR + 7 RDR = 11. CostAlgo Dispatcher consumed Robot Driver Request.  CostAlgo Dispatcher totals: 7 HDR + 4 RDR = 11 consumed in 0.356 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 18 HDR + 22 RDR = 40 in 0.356 s.
+Broker: 3 HDR + 8 RDR = 11. FastAlgo Dispatcher consumed Human Driver Request.  FastAlgo Dispatcher totals: 8 HDR + 10 RDR = 18 consumed in 0.357 s.
+Broker: 4 HDR + 8 RDR = 12. Added Human Driver Request. Produced: 19 HDR + 22 RDR = 41 in 0.357 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 8 HDR + 11 RDR = 19 consumed in 0.378 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 19 HDR + 23 RDR = 42 in 0.378 s.
+Broker: 4 HDR + 7 RDR = 11. CostAlgo Dispatcher consumed Robot Driver Request.  CostAlgo Dispatcher totals: 7 HDR + 5 RDR = 12 consumed in 0.392 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 19 HDR + 24 RDR = 43 in 0.393 s.
+Broker: 3 HDR + 8 RDR = 11. FastAlgo Dispatcher consumed Human Driver Request.  FastAlgo Dispatcher totals: 9 HDR + 11 RDR = 20 consumed in 0.399 s.
+Broker: 4 HDR + 8 RDR = 12. Added Human Driver Request. Produced: 20 HDR + 24 RDR = 44 in 0.399 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 9 HDR + 12 RDR = 21 consumed in 0.419 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 20 HDR + 25 RDR = 45 in 0.419 s.
+Broker: 4 HDR + 7 RDR = 11. CostAlgo Dispatcher consumed Robot Driver Request.  CostAlgo Dispatcher totals: 7 HDR + 6 RDR = 13 consumed in 0.427 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 20 HDR + 26 RDR = 46 in 0.435 s.
+Broker: 3 HDR + 8 RDR = 11. FastAlgo Dispatcher consumed Human Driver Request.  FastAlgo Dispatcher totals: 10 HDR + 12 RDR = 22 consumed in 0.439 s.
+Broker: 4 HDR + 8 RDR = 12. Added Human Driver Request. Produced: 21 HDR + 26 RDR = 47 in 0.440 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 10 HDR + 13 RDR = 23 consumed in 0.460 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 21 HDR + 27 RDR = 48 in 0.461 s.
+Broker: 4 HDR + 7 RDR = 11. CostAlgo Dispatcher consumed Robot Driver Request.  CostAlgo Dispatcher totals: 7 HDR + 7 RDR = 14 consumed in 0.463 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 21 HDR + 28 RDR = 49 in 0.476 s.
+Broker: 3 HDR + 8 RDR = 11. FastAlgo Dispatcher consumed Human Driver Request.  FastAlgo Dispatcher totals: 11 HDR + 13 RDR = 24 consumed in 0.481 s.
+Broker: 4 HDR + 8 RDR = 12. Added Human Driver Request. Produced: 22 HDR + 28 RDR = 50 in 0.482 s.
+Broker: 4 HDR + 7 RDR = 11. CostAlgo Dispatcher consumed Robot Driver Request.  CostAlgo Dispatcher totals: 7 HDR + 8 RDR = 15 consumed in 0.499 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 22 HDR + 29 RDR = 51 in 0.499 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 11 HDR + 14 RDR = 25 consumed in 0.502 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 22 HDR + 30 RDR = 52 in 0.514 s.
+Broker: 3 HDR + 8 RDR = 11. FastAlgo Dispatcher consumed Human Driver Request.  FastAlgo Dispatcher totals: 12 HDR + 14 RDR = 26 consumed in 0.522 s.
+Broker: 4 HDR + 8 RDR = 12. Added Human Driver Request. Produced: 23 HDR + 30 RDR = 53 in 0.522 s.
+Broker: 4 HDR + 7 RDR = 11. CostAlgo Dispatcher consumed Robot Driver Request.  CostAlgo Dispatcher totals: 7 HDR + 9 RDR = 16 consumed in 0.534 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 23 HDR + 31 RDR = 54 in 0.534 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 12 HDR + 15 RDR = 27 consumed in 0.543 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 23 HDR + 32 RDR = 55 in 0.550 s.
+Broker: 3 HDR + 8 RDR = 11. FastAlgo Dispatcher consumed Human Driver Request.  FastAlgo Dispatcher totals: 13 HDR + 15 RDR = 28 consumed in 0.563 s.
+Broker: 4 HDR + 8 RDR = 12. Added Human Driver Request. Produced: 24 HDR + 32 RDR = 56 in 0.564 s.
+Broker: 4 HDR + 7 RDR = 11. CostAlgo Dispatcher consumed Robot Driver Request.  CostAlgo Dispatcher totals: 7 HDR + 10 RDR = 17 consumed in 0.570 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 24 HDR + 33 RDR = 57 in 0.570 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 13 HDR + 16 RDR = 29 consumed in 0.584 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 24 HDR + 34 RDR = 58 in 0.586 s.
+Broker: 3 HDR + 8 RDR = 11. FastAlgo Dispatcher consumed Human Driver Request.  FastAlgo Dispatcher totals: 14 HDR + 16 RDR = 30 consumed in 0.605 s.
+Broker: 3 HDR + 9 RDR = 12. Added Robot Driver Request. Produced: 24 HDR + 35 RDR = 59 in 0.605 s.
+Broker: 3 HDR + 8 RDR = 11. CostAlgo Dispatcher consumed Robot Driver Request.  CostAlgo Dispatcher totals: 7 HDR + 11 RDR = 18 consumed in 0.605 s.
+Broker: 4 HDR + 8 RDR = 12. Added Human Driver Request. Produced: 25 HDR + 35 RDR = 60 in 0.606 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 14 HDR + 17 RDR = 31 consumed in 0.625 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 25 HDR + 36 RDR = 61 in 0.626 s.
+Broker: 3 HDR + 8 RDR = 11. CostAlgo Dispatcher consumed Human Driver Request.  CostAlgo Dispatcher totals: 8 HDR + 11 RDR = 19 consumed in 0.641 s.
+Broker: 4 HDR + 8 RDR = 12. Added Human Driver Request. Produced: 26 HDR + 36 RDR = 62 in 0.641 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 14 HDR + 18 RDR = 32 consumed in 0.647 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 26 HDR + 37 RDR = 63 in 0.647 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 14 HDR + 19 RDR = 33 consumed in 0.668 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 26 HDR + 38 RDR = 64 in 0.668 s.
+Broker: 3 HDR + 8 RDR = 11. CostAlgo Dispatcher consumed Human Driver Request.  CostAlgo Dispatcher totals: 9 HDR + 11 RDR = 20 consumed in 0.677 s.
+Broker: 4 HDR + 8 RDR = 12. Added Human Driver Request. Produced: 27 HDR + 38 RDR = 65 in 0.677 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 14 HDR + 20 RDR = 34 consumed in 0.688 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 27 HDR + 39 RDR = 66 in 0.688 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 14 HDR + 21 RDR = 35 consumed in 0.709 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 27 HDR + 40 RDR = 67 in 0.709 s.
+Broker: 3 HDR + 8 RDR = 11. CostAlgo Dispatcher consumed Human Driver Request.  CostAlgo Dispatcher totals: 10 HDR + 11 RDR = 21 consumed in 0.713 s.
+Broker: 4 HDR + 8 RDR = 12. Added Human Driver Request. Produced: 28 HDR + 40 RDR = 68 in 0.713 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 14 HDR + 22 RDR = 36 consumed in 0.730 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 28 HDR + 41 RDR = 69 in 0.730 s.
+Broker: 4 HDR + 7 RDR = 11. CostAlgo Dispatcher consumed Robot Driver Request.  CostAlgo Dispatcher totals: 10 HDR + 12 RDR = 22 consumed in 0.748 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 28 HDR + 42 RDR = 70 in 0.748 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 14 HDR + 23 RDR = 37 consumed in 0.750 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 28 HDR + 43 RDR = 71 in 0.764 s.
+Broker: 3 HDR + 8 RDR = 11. FastAlgo Dispatcher consumed Human Driver Request.  FastAlgo Dispatcher totals: 15 HDR + 23 RDR = 38 consumed in 0.771 s.
+Broker: 4 HDR + 8 RDR = 12. Added Human Driver Request. Produced: 29 HDR + 43 RDR = 72 in 0.771 s.
+Broker: 4 HDR + 7 RDR = 11. CostAlgo Dispatcher consumed Robot Driver Request.  CostAlgo Dispatcher totals: 10 HDR + 13 RDR = 23 consumed in 0.784 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 29 HDR + 44 RDR = 73 in 0.784 s.
+Broker: 3 HDR + 8 RDR = 11. FastAlgo Dispatcher consumed Human Driver Request.  FastAlgo Dispatcher totals: 16 HDR + 23 RDR = 39 consumed in 0.791 s.
+Broker: 4 HDR + 8 RDR = 12. Added Human Driver Request. Produced: 30 HDR + 44 RDR = 74 in 0.792 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 16 HDR + 24 RDR = 40 consumed in 0.812 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 30 HDR + 45 RDR = 75 in 0.812 s.
+Broker: 4 HDR + 7 RDR = 11. CostAlgo Dispatcher consumed Robot Driver Request.  CostAlgo Dispatcher totals: 10 HDR + 14 RDR = 24 consumed in 0.819 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 30 HDR + 46 RDR = 76 in 0.828 s.
+Broker: 3 HDR + 8 RDR = 11. FastAlgo Dispatcher consumed Human Driver Request.  FastAlgo Dispatcher totals: 17 HDR + 24 RDR = 41 consumed in 0.833 s.
+Broker: 4 HDR + 8 RDR = 12. Added Human Driver Request. Produced: 31 HDR + 46 RDR = 77 in 0.833 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 17 HDR + 25 RDR = 42 consumed in 0.853 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 31 HDR + 47 RDR = 78 in 0.853 s.
+Broker: 4 HDR + 7 RDR = 11. CostAlgo Dispatcher consumed Robot Driver Request.  CostAlgo Dispatcher totals: 10 HDR + 15 RDR = 25 consumed in 0.855 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 31 HDR + 48 RDR = 79 in 0.869 s.
+Broker: 3 HDR + 8 RDR = 11. FastAlgo Dispatcher consumed Human Driver Request.  FastAlgo Dispatcher totals: 18 HDR + 25 RDR = 43 consumed in 0.874 s.
+Broker: 4 HDR + 8 RDR = 12. Added Human Driver Request. Produced: 32 HDR + 48 RDR = 80 in 0.874 s.
+Broker: 4 HDR + 7 RDR = 11. CostAlgo Dispatcher consumed Robot Driver Request.  CostAlgo Dispatcher totals: 10 HDR + 16 RDR = 26 consumed in 0.891 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 32 HDR + 49 RDR = 81 in 0.891 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 18 HDR + 26 RDR = 44 consumed in 0.894 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 32 HDR + 50 RDR = 82 in 0.907 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 18 HDR + 27 RDR = 45 consumed in 0.915 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 32 HDR + 51 RDR = 83 in 0.922 s.
+Broker: 3 HDR + 8 RDR = 11. CostAlgo Dispatcher consumed Human Driver Request.  CostAlgo Dispatcher totals: 11 HDR + 16 RDR = 27 consumed in 0.926 s.
+Broker: 4 HDR + 8 RDR = 12. Added Human Driver Request. Produced: 33 HDR + 51 RDR = 84 in 0.927 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 18 HDR + 28 RDR = 46 consumed in 0.936 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 33 HDR + 52 RDR = 85 in 0.938 s.
+Broker: 3 HDR + 8 RDR = 11. FastAlgo Dispatcher consumed Human Driver Request.  FastAlgo Dispatcher totals: 19 HDR + 28 RDR = 47 consumed in 0.956 s.
+Broker: 3 HDR + 9 RDR = 12. Added Robot Driver Request. Produced: 33 HDR + 53 RDR = 86 in 0.956 s.
+Broker: 3 HDR + 8 RDR = 11. CostAlgo Dispatcher consumed Robot Driver Request.  CostAlgo Dispatcher totals: 11 HDR + 17 RDR = 28 consumed in 0.962 s.
+Broker: 4 HDR + 8 RDR = 12. Added Human Driver Request. Produced: 34 HDR + 53 RDR = 87 in 0.962 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 19 HDR + 29 RDR = 48 consumed in 0.977 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 34 HDR + 54 RDR = 88 in 0.977 s.
+Broker: 3 HDR + 8 RDR = 11. CostAlgo Dispatcher consumed Human Driver Request.  CostAlgo Dispatcher totals: 12 HDR + 17 RDR = 29 consumed in 0.997 s.
+Broker: 3 HDR + 7 RDR = 10. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 19 HDR + 30 RDR = 49 consumed in 0.997 s.
+Broker: 3 HDR + 8 RDR = 11. Added Robot Driver Request. Produced: 34 HDR + 55 RDR = 89 in 0.998 s.
+Broker: 4 HDR + 8 RDR = 12. Added Human Driver Request. Produced: 35 HDR + 55 RDR = 90 in 0.998 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 19 HDR + 31 RDR = 50 consumed in 1.018 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 35 HDR + 56 RDR = 91 in 1.018 s.
+Broker: 3 HDR + 8 RDR = 11. CostAlgo Dispatcher consumed Human Driver Request.  CostAlgo Dispatcher totals: 13 HDR + 17 RDR = 30 consumed in 1.033 s.
+Broker: 4 HDR + 8 RDR = 12. Added Human Driver Request. Produced: 36 HDR + 56 RDR = 92 in 1.033 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 19 HDR + 32 RDR = 51 consumed in 1.039 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 36 HDR + 57 RDR = 93 in 1.039 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 19 HDR + 33 RDR = 52 consumed in 1.059 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 36 HDR + 58 RDR = 94 in 1.060 s.
+Broker: 4 HDR + 7 RDR = 11. CostAlgo Dispatcher consumed Robot Driver Request.  CostAlgo Dispatcher totals: 13 HDR + 18 RDR = 31 consumed in 1.068 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 36 HDR + 59 RDR = 95 in 1.075 s.
+Broker: 3 HDR + 8 RDR = 11. FastAlgo Dispatcher consumed Human Driver Request.  FastAlgo Dispatcher totals: 20 HDR + 33 RDR = 53 consumed in 1.080 s.
+Broker: 4 HDR + 8 RDR = 12. Added Human Driver Request. Produced: 37 HDR + 59 RDR = 96 in 1.080 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 20 HDR + 34 RDR = 54 consumed in 1.101 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 37 HDR + 60 RDR = 97 in 1.101 s.
+Broker: 4 HDR + 7 RDR = 11. CostAlgo Dispatcher consumed Robot Driver Request.  CostAlgo Dispatcher totals: 13 HDR + 19 RDR = 32 consumed in 1.104 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 37 HDR + 61 RDR = 98 in 1.116 s.
+Broker: 3 HDR + 8 RDR = 11. FastAlgo Dispatcher consumed Human Driver Request.  FastAlgo Dispatcher totals: 21 HDR + 34 RDR = 55 consumed in 1.121 s.
+Broker: 4 HDR + 8 RDR = 12. Added Human Driver Request. Produced: 38 HDR + 61 RDR = 99 in 1.121 s.
+Broker: 4 HDR + 7 RDR = 11. CostAlgo Dispatcher consumed Robot Driver Request.  CostAlgo Dispatcher totals: 13 HDR + 20 RDR = 33 consumed in 1.140 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 38 HDR + 62 RDR = 100 in 1.140 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 21 HDR + 35 RDR = 56 consumed in 1.142 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 38 HDR + 63 RDR = 101 in 1.156 s.
+Broker: 3 HDR + 8 RDR = 11. FastAlgo Dispatcher consumed Human Driver Request.  FastAlgo Dispatcher totals: 22 HDR + 35 RDR = 57 consumed in 1.163 s.
+Broker: 4 HDR + 8 RDR = 12. Added Human Driver Request. Produced: 39 HDR + 63 RDR = 102 in 1.163 s.
+Broker: 4 HDR + 7 RDR = 11. CostAlgo Dispatcher consumed Robot Driver Request.  CostAlgo Dispatcher totals: 13 HDR + 21 RDR = 34 consumed in 1.175 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 39 HDR + 64 RDR = 103 in 1.175 s.
+Broker: 3 HDR + 8 RDR = 11. FastAlgo Dispatcher consumed Human Driver Request.  FastAlgo Dispatcher totals: 23 HDR + 35 RDR = 58 consumed in 1.183 s.
+Broker: 4 HDR + 8 RDR = 12. Added Human Driver Request. Produced: 40 HDR + 64 RDR = 104 in 1.184 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 23 HDR + 36 RDR = 59 consumed in 1.204 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 40 HDR + 65 RDR = 105 in 1.205 s.
+Broker: 4 HDR + 7 RDR = 11. CostAlgo Dispatcher consumed Robot Driver Request.  CostAlgo Dispatcher totals: 13 HDR + 22 RDR = 35 consumed in 1.211 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 40 HDR + 66 RDR = 106 in 1.220 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 23 HDR + 37 RDR = 60 consumed in 1.225 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 40 HDR + 67 RDR = 107 in 1.236 s.
+Broker: 3 HDR + 8 RDR = 11. FastAlgo Dispatcher consumed Human Driver Request.  FastAlgo Dispatcher totals: 24 HDR + 37 RDR = 61 consumed in 1.245 s.
+Broker: 4 HDR + 8 RDR = 12. Added Human Driver Request. Produced: 41 HDR + 67 RDR = 108 in 1.246 s.
+Broker: 4 HDR + 7 RDR = 11. CostAlgo Dispatcher consumed Robot Driver Request.  CostAlgo Dispatcher totals: 13 HDR + 23 RDR = 36 consumed in 1.247 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 41 HDR + 68 RDR = 109 in 1.252 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 24 HDR + 38 RDR = 62 consumed in 1.266 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 41 HDR + 69 RDR = 110 in 1.268 s.
+Broker: 3 HDR + 8 RDR = 11. CostAlgo Dispatcher consumed Human Driver Request.  CostAlgo Dispatcher totals: 14 HDR + 23 RDR = 37 consumed in 1.283 s.
+Broker: 4 HDR + 8 RDR = 12. Added Human Driver Request. Produced: 42 HDR + 69 RDR = 111 in 1.283 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 24 HDR + 39 RDR = 63 consumed in 1.287 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 42 HDR + 70 RDR = 112 in 1.287 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 24 HDR + 40 RDR = 64 consumed in 1.307 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 42 HDR + 71 RDR = 113 in 1.308 s.
+Broker: 3 HDR + 8 RDR = 11. CostAlgo Dispatcher consumed Human Driver Request.  CostAlgo Dispatcher totals: 15 HDR + 23 RDR = 38 consumed in 1.318 s.
+Broker: 4 HDR + 8 RDR = 12. Added Human Driver Request. Produced: 43 HDR + 71 RDR = 114 in 1.318 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 24 HDR + 41 RDR = 65 consumed in 1.328 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 43 HDR + 72 RDR = 115 in 1.328 s.
+Broker: 3 HDR + 8 RDR = 11. FastAlgo Dispatcher consumed Human Driver Request.  FastAlgo Dispatcher totals: 25 HDR + 41 RDR = 66 consumed in 1.348 s.
+Broker: 3 HDR + 9 RDR = 12. Added Robot Driver Request. Produced: 43 HDR + 73 RDR = 116 in 1.348 s.
+Broker: 3 HDR + 8 RDR = 11. CostAlgo Dispatcher consumed Robot Driver Request.  CostAlgo Dispatcher totals: 15 HDR + 24 RDR = 39 consumed in 1.353 s.
+Broker: 4 HDR + 8 RDR = 12. Added Human Driver Request. Produced: 44 HDR + 73 RDR = 117 in 1.353 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 25 HDR + 42 RDR = 67 consumed in 1.369 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 44 HDR + 74 RDR = 118 in 1.369 s.
+Broker: 4 HDR + 7 RDR = 11. CostAlgo Dispatcher consumed Robot Driver Request.  CostAlgo Dispatcher totals: 15 HDR + 25 RDR = 40 consumed in 1.389 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 44 HDR + 75 RDR = 119 in 1.389 s.
+Broker: 3 HDR + 8 RDR = 11. FastAlgo Dispatcher consumed Human Driver Request.  FastAlgo Dispatcher totals: 26 HDR + 42 RDR = 68 consumed in 1.389 s.
+Broker: 4 HDR + 8 RDR = 12. Added Human Driver Request. Produced: 45 HDR + 75 RDR = 120 in 1.389 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 26 HDR + 43 RDR = 69 consumed in 1.410 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 45 HDR + 76 RDR = 121 in 1.410 s.
+Broker: 4 HDR + 7 RDR = 11. CostAlgo Dispatcher consumed Robot Driver Request.  CostAlgo Dispatcher totals: 15 HDR + 26 RDR = 41 consumed in 1.424 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 45 HDR + 77 RDR = 122 in 1.425 s.
+Broker: 3 HDR + 8 RDR = 11. FastAlgo Dispatcher consumed Human Driver Request.  FastAlgo Dispatcher totals: 27 HDR + 43 RDR = 70 consumed in 1.430 s.
+Broker: 4 HDR + 8 RDR = 12. Added Human Driver Request. Produced: 46 HDR + 77 RDR = 123 in 1.430 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 27 HDR + 44 RDR = 71 consumed in 1.451 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 46 HDR + 78 RDR = 124 in 1.451 s.
+Broker: 4 HDR + 7 RDR = 11. CostAlgo Dispatcher consumed Robot Driver Request.  CostAlgo Dispatcher totals: 15 HDR + 27 RDR = 42 consumed in 1.460 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 46 HDR + 79 RDR = 125 in 1.466 s.
+Broker: 3 HDR + 8 RDR = 11. FastAlgo Dispatcher consumed Human Driver Request.  FastAlgo Dispatcher totals: 28 HDR + 44 RDR = 72 consumed in 1.472 s.
+Broker: 4 HDR + 8 RDR = 12. Added Human Driver Request. Produced: 47 HDR + 79 RDR = 126 in 1.472 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 28 HDR + 45 RDR = 73 consumed in 1.492 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 47 HDR + 80 RDR = 127 in 1.492 s.
+Broker: 4 HDR + 7 RDR = 11. CostAlgo Dispatcher consumed Robot Driver Request.  CostAlgo Dispatcher totals: 15 HDR + 28 RDR = 43 consumed in 1.496 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 47 HDR + 81 RDR = 128 in 1.507 s.
+Broker: 3 HDR + 8 RDR = 11. FastAlgo Dispatcher consumed Human Driver Request.  FastAlgo Dispatcher totals: 29 HDR + 45 RDR = 74 consumed in 1.512 s.
+Broker: 4 HDR + 8 RDR = 12. Added Human Driver Request. Produced: 48 HDR + 81 RDR = 129 in 1.513 s.
+Broker: 4 HDR + 7 RDR = 11. CostAlgo Dispatcher consumed Robot Driver Request.  CostAlgo Dispatcher totals: 15 HDR + 29 RDR = 44 consumed in 1.531 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 48 HDR + 82 RDR = 130 in 1.531 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 29 HDR + 46 RDR = 75 consumed in 1.533 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 48 HDR + 83 RDR = 131 in 1.547 s.
+Broker: 3 HDR + 8 RDR = 11. FastAlgo Dispatcher consumed Human Driver Request.  FastAlgo Dispatcher totals: 30 HDR + 46 RDR = 76 consumed in 1.553 s.
+Broker: 4 HDR + 8 RDR = 12. Added Human Driver Request. Produced: 49 HDR + 83 RDR = 132 in 1.553 s.
+Broker: 4 HDR + 7 RDR = 11. CostAlgo Dispatcher consumed Robot Driver Request.  CostAlgo Dispatcher totals: 15 HDR + 30 RDR = 45 consumed in 1.567 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 49 HDR + 84 RDR = 133 in 1.567 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 30 HDR + 47 RDR = 77 consumed in 1.574 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 49 HDR + 85 RDR = 134 in 1.582 s.
+Broker: 3 HDR + 8 RDR = 11. FastAlgo Dispatcher consumed Human Driver Request.  FastAlgo Dispatcher totals: 31 HDR + 47 RDR = 78 consumed in 1.594 s.
+Broker: 4 HDR + 8 RDR = 12. Added Human Driver Request. Produced: 50 HDR + 85 RDR = 135 in 1.594 s.
+Broker: 4 HDR + 7 RDR = 11. CostAlgo Dispatcher consumed Robot Driver Request.  CostAlgo Dispatcher totals: 15 HDR + 31 RDR = 46 consumed in 1.602 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 50 HDR + 86 RDR = 136 in 1.602 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 31 HDR + 48 RDR = 79 consumed in 1.615 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 50 HDR + 87 RDR = 137 in 1.618 s.
+Broker: 3 HDR + 8 RDR = 11. FastAlgo Dispatcher consumed Human Driver Request.  FastAlgo Dispatcher totals: 32 HDR + 48 RDR = 80 consumed in 1.636 s.
+Broker: 3 HDR + 9 RDR = 12. Added Robot Driver Request. Produced: 50 HDR + 88 RDR = 138 in 1.636 s.
+Broker: 3 HDR + 8 RDR = 11. CostAlgo Dispatcher consumed Robot Driver Request.  CostAlgo Dispatcher totals: 15 HDR + 32 RDR = 47 consumed in 1.638 s.
+Broker: 4 HDR + 8 RDR = 12. Added Human Driver Request. Produced: 51 HDR + 88 RDR = 139 in 1.638 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 32 HDR + 49 RDR = 81 consumed in 1.656 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 51 HDR + 89 RDR = 140 in 1.656 s.
+Broker: 3 HDR + 8 RDR = 11. CostAlgo Dispatcher consumed Human Driver Request.  CostAlgo Dispatcher totals: 16 HDR + 32 RDR = 48 consumed in 1.674 s.
+Broker: 3 HDR + 9 RDR = 12. Added Robot Driver Request. Produced: 51 HDR + 90 RDR = 141 in 1.674 s.
+Broker: 3 HDR + 8 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 32 HDR + 50 RDR = 82 consumed in 1.677 s.
+Broker: 4 HDR + 8 RDR = 12. Added Human Driver Request. Produced: 52 HDR + 90 RDR = 142 in 1.677 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 32 HDR + 51 RDR = 83 consumed in 1.697 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 52 HDR + 91 RDR = 143 in 1.698 s.
+Broker: 3 HDR + 8 RDR = 11. CostAlgo Dispatcher consumed Human Driver Request.  CostAlgo Dispatcher totals: 17 HDR + 32 RDR = 49 consumed in 1.709 s.
+Broker: 4 HDR + 8 RDR = 12. Added Human Driver Request. Produced: 53 HDR + 91 RDR = 144 in 1.709 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 32 HDR + 52 RDR = 84 consumed in 1.718 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 53 HDR + 92 RDR = 145 in 1.718 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 32 HDR + 53 RDR = 85 consumed in 1.739 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 53 HDR + 93 RDR = 146 in 1.739 s.
+Broker: 3 HDR + 8 RDR = 11. CostAlgo Dispatcher consumed Human Driver Request.  CostAlgo Dispatcher totals: 18 HDR + 32 RDR = 50 consumed in 1.745 s.
+Broker: 4 HDR + 8 RDR = 12. Added Human Driver Request. Produced: 54 HDR + 93 RDR = 147 in 1.745 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 32 HDR + 54 RDR = 86 consumed in 1.759 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 54 HDR + 94 RDR = 148 in 1.760 s.
+Broker: 4 HDR + 7 RDR = 11. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 32 HDR + 55 RDR = 87 consumed in 1.780 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 54 HDR + 95 RDR = 149 in 1.780 s.
+Broker: 4 HDR + 7 RDR = 11. CostAlgo Dispatcher consumed Robot Driver Request.  CostAlgo Dispatcher totals: 18 HDR + 33 RDR = 51 consumed in 1.781 s.
+Broker: 4 HDR + 8 RDR = 12. Added Robot Driver Request. Produced: 54 HDR + 96 RDR = 150 in 1.796 s.
+Broker: 3 HDR + 8 RDR = 11. FastAlgo Dispatcher consumed Human Driver Request.  FastAlgo Dispatcher totals: 33 HDR + 55 RDR = 88 consumed in 1.800 s.
+Broker: 3 HDR + 7 RDR = 10. CostAlgo Dispatcher consumed Robot Driver Request.  CostAlgo Dispatcher totals: 18 HDR + 34 RDR = 52 consumed in 1.816 s.
+Broker: 3 HDR + 6 RDR = 9. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 33 HDR + 56 RDR = 89 consumed in 1.821 s.
+Broker: 2 HDR + 6 RDR = 8. FastAlgo Dispatcher consumed Human Driver Request.  FastAlgo Dispatcher totals: 34 HDR + 56 RDR = 90 consumed in 1.842 s.
+Broker: 2 HDR + 5 RDR = 7. CostAlgo Dispatcher consumed Robot Driver Request.  CostAlgo Dispatcher totals: 18 HDR + 35 RDR = 53 consumed in 1.852 s.
+Broker: 1 HDR + 5 RDR = 6. FastAlgo Dispatcher consumed Human Driver Request.  FastAlgo Dispatcher totals: 35 HDR + 56 RDR = 91 consumed in 1.862 s.
+Broker: 1 HDR + 4 RDR = 5. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 35 HDR + 57 RDR = 92 consumed in 1.883 s.
+Broker: 1 HDR + 3 RDR = 4. CostAlgo Dispatcher consumed Robot Driver Request.  CostAlgo Dispatcher totals: 18 HDR + 36 RDR = 54 consumed in 1.888 s.
+Broker: 0 HDR + 3 RDR = 3. FastAlgo Dispatcher consumed Human Driver Request.  FastAlgo Dispatcher totals: 36 HDR + 57 RDR = 93 consumed in 1.903 s.
+Broker: 0 HDR + 2 RDR = 2. CostAlgo Dispatcher consumed Robot Driver Request.  CostAlgo Dispatcher totals: 18 HDR + 37 RDR = 55 consumed in 1.923 s.
+Broker: 0 HDR + 1 RDR = 1. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 36 HDR + 58 RDR = 94 consumed in 1.924 s.
+Broker: 0 HDR + 0 RDR = 0. FastAlgo Dispatcher consumed Robot Driver Request.  FastAlgo Dispatcher totals: 36 HDR + 59 RDR = 95 consumed in 1.944 s.
+
+REQUEST REPORT
+----------------------------------------
+Human Driver Request producer generated 54 requests
+Robot Driver Request producer generated 96 requests
+CostAlgo Dispatcher consumed 18 HDR + 37 RDR = 55 total
+FastAlgo Dispatcher consumed 36 HDR + 59 RDR = 95 total
+Elapsed time 1.959 s

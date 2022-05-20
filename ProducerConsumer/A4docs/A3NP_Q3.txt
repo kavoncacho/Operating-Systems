@@ -1,0 +1,60 @@
+t1func(...) {
+	
+	sem_t* semaphore1;
+	
+	if (sem_init(&semaphore1, 0, 2) == -1)
+		exit
+	
+	start thread t2 executing t2func(t2 args, semaphore1);
+	start thread t3 executing t3func(t3 args, semaphore1);
+	
+	wait(semaphore1)
+	wait(semaphore1)
+	
+	do work;
+	
+	//t1point
+}
+
+t2func(..., sem_t* semaphore1) {
+	
+	do_work;
+	
+	//t2point
+	do_more_work;
+	
+	signal(semaphore1);
+}
+
+t3func(..., sem_t* semaphore2) {
+	
+	do_work;
+	
+	//t3point;
+	
+	signal(semaphore1);
+}
+
+
+
+main() {
+	sem_t* semaphore;
+	
+	if (sem_init(&semaphore, 0, 0) == -1)
+		exit
+	
+	int var;
+	for (int j = 0; j < NumThreads; j++) {
+		start new thread executing tfunc(&var, semaphore);
+		wait(semaphore);
+	}
+}
+
+tfunc (int *var, sem_t* semaphore) {
+	z = 10;
+	y = z * (*var);
+	print y;
+	z = 2* y;
+	*var = *var / 2;
+	signal(semaphore);
+}
